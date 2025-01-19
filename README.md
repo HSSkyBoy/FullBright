@@ -1,11 +1,9 @@
-# Fullbright
+# FullBright
 
 This is a fabric mod that adds a fullbright feature to the game.
 
 ## Installation
 Download the jar from [modrinth](https://modrinth.com/mod/fullbright) and install the following <u>dependencies</u>.
-
-### If you are playing on a server using an old minecraft version consider using [ViaFabric](https://modrinth.com/mod/viafabric) to use the latest client version.
 
 [![](https://github.com/Prospector/badges/blob/master/modrinth-badge-72h-padded.png?raw=true)](https://modrinth.com/mod/fullbright)
 
@@ -14,7 +12,6 @@ After completion the compiled jar should appear in  `build/libs/`.
 
 ## Dependencies
 - [Fabric API](https://modrinth.com/mod/fabric-api)
-- [Mod Menu](https://modrinth.com/mod/modmenu)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 
 ## Usage
@@ -26,4 +23,4 @@ After completion the compiled jar should appear in  `build/libs/`.
 5. Press the keybinding to toggle fullbright (Default: `B`).
 6. Enjoy!
 
-### If you have any further issues, create an issue on [my github](https://github.com/Greeenman999/1.19-fullbright/issues) or message me on discord `@greenman999`.
+### If you have any further issues, create an issue on [my github](https://github.com/HSSkyBoy/FullBright/issues) or message me on discord `@NPatch_HS`.
